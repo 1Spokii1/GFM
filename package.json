@@ -1,0 +1,24 @@
+{
+  "name": "bot",
+  "version": "0.0.1",
+  "description": "Bot for discord",
+  "main": "main.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "author": "Spokii",
+  "license": "ISC",
+  "dependencies": {
+    "colours": "^0.6.0-2",
+    "common-tags": "^1.8.0",
+    "discord-anti-spam": "^2.1.1",
+    "discord.js": "^11.6.2",
+    "express": "^4.17.1",
+    "express-glitch-keepalive": "^0.2.0",
+    "fs-extra": "^8.1.0",
+    "ms": "^2.1.2",
+    "request": "^2.88.0",
+    "strftime": "^0.10.0",
+    "ytdl-core": "^1.0.3"
+  }
+}
